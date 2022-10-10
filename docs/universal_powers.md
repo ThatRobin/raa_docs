@@ -1,6 +1,6 @@
 ### Universal Powers
 
-Custom Content Packs allow you to use the same power system as Origins (Apoli), with your custom content for greater variety. In order to use the universal power system. you make your power files as you would in Origins. And then make the directories `/data/<namespace>/universal_powers/` and create a JSON file in there (it can be named anything)
+In order to use the universal power system. you make your power files as you would in Origins. And then make the directories `/data/<namespace>/universal_powers/` and create a JSON file in there (it can be named anything)
 Then, in this file, you enter your powers, and entities.
 
 Fields  | Type | Default | Description

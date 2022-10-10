@@ -5,7 +5,7 @@ nav:
     - Universal Powers: universal_powers.md
     - Actions:
         - Bi-Entity Actions:
-            - Attack: bi-entity_actions/attack.md
+            - Attack: bientity_actions/attack.md
         - Entity Actions:
             - Open Choice Screen: entity_actions/open_choice_screen.md
         - Item Actions:
