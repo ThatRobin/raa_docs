@@ -1,0 +1,55 @@
+site_name: Robin's Apoli Additions
+
+nav:
+    - Home: index.md
+    - Universal Powers: universal_powers.md
+    - Actions:
+        - Bi-Entity Actions:
+            - Attack: bi-entity_actions/attack.md
+        - Entity Actions:
+            - Open Choice Screen: entity_actions/open_choice_screen.md
+        - Item Actions:
+            - Modify Item: item_actions/modify_item.md
+    - Conditions:
+        - Entity Conditions:
+            - Active Power Type: entity_conditions/active_power_type.md
+            - Equipped Trinket: entity_conditions/equipped_trinket.md
+            - Resource Percentage: entity_conditions/resource_percentage.md
+        - Item Actions:
+            - Modify Item: item_actions/modift_item.md
+    - Types:
+        - Power Types: power_types.md
+        - Data Types: data_types.md
+        - Choice JSON: choice_json.md
+        - Layer JSON: layer_json.md
+
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+separator: '_'
+plugins:
+  - search
+  - mermaid2:
+      version: 8.6.4
+      arguments:
+          theme: 'neutral'
+
+markdown_extensions:
+    - admonition
+
+extra_javascript:
+    - https://unpkg.com/mermaid@8.7.0/dist/mermaid.min.js
