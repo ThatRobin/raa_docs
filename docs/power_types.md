@@ -10,7 +10,7 @@ Unless stated otherwise, each power type supports a `condition` field with an [E
 * [Action On Projectile Land](power_types/action_on_projectile_land.md)
 * [Add Goal](power_types/add_goal.md)
 * [Bind Item](power_types/bind_item.md)
-* [Border](power_types/border_power.md)
+* [Border](power_types/border.md)
 * [Boss Bar](power_types/boss_bar.md)
 * [Item Use](power_types/item_use.md)
 * [Remove Goal](power_types/remove_goal.md)

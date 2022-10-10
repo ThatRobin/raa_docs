@@ -16,7 +16,7 @@ nav:
             - Equipped Trinket: entity_conditions/equipped_trinket.md
             - Resource Percentage: entity_conditions/resource_percentage.md
         - Item Actions:
-            - Modify Item: item_actions/modift_item.md
+            - Modify Item: item_actions/modify_item.md
     - Types:
         - Power Types: power_types.md
         - Data Types: data_types.md

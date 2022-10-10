@@ -4,6 +4,10 @@ Checks all the players trinket slots with an [Item Condition](https://origins.re
 
 Type ID: `ra_additions:equipped_trinket`
 
+!!! note
+
+    This condition type requires the [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets) mod to be installed in order to function.
+
 ### Fields
 
    Field   | Type | Default | Description

@@ -13,8 +13,12 @@ Data types are used everywhere in the JSON files. Every field in a JSON has to h
 
 ## Apoli-specific
 
+* [Boss Bar Hud Overlay](data_types/boss_bar_hud_overlay.md)
+* [Boss Bar Hud Render](data_types/boss_bar_hud_render.md)
 * [Colour](data_types/colour.md)
 * [Damage Source](data_types/damage_source.md)
-* [Hud Render](data_types/hud_render.md)
 * [Identifier](data_types/identifier.md)
 * [Item Stack](data_types/item_stack.md)
+* [Stat Bar Hud Render](data_types/stat_bar_hud_render.md)
+* [Text Component](data_types/text_component.md)
+* [Vanilla Goal](data_types/vanilla_goal.md)

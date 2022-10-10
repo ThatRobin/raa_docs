@@ -2,7 +2,7 @@
 
 [Power Type](../power_types.md).
 
-Defines a stat bar for the player. Basically holds a persistent integer value between 0, and 20, which can be modified by the [Change Stat (Entity Action Type)](../entity_actions/change_stat.md) and checked with the [Check Stat (Entity Condition Type)](../entity_conditions/check_stat.md).
+Defines a stat bar for the player. Holds a persistent integer value between 0, and 20.
 
 Type ID: `ra_additions:stat_bar`
 
@@ -10,7 +10,7 @@ Type ID: `ra_additions:stat_bar`
 
 Field  | Type | Default | Description
 -------|------|---------|-------------
-`hud_render` | [Custom Hud Render](../data_types/hud_render.md) | | Specifies how and if the stat bar is displayed with a bar on the HUD.
+`hud_render` | [Stat Bar Hud Render](../data_types/stat_bar_hud_render.md) | | Specifies how and if the stat bar is displayed with a bar on the HUD.
 `start_value` | [Integer](../data_types/integer.md) | `20` | The value of the resource when the player first gains this power.
 
 ### Example
