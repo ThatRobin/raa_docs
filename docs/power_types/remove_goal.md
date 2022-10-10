@@ -11,7 +11,7 @@ Type ID: `ra_additions:remove_goal`
 Field  | Type | Default | Description
 -------|------|---------|-------------
 `goal` | [Vanilla Goal](../data_types/vanilla_goal.md) | _optional_ | The goal to add to the mob.
-`goals` | [Array]() of [Vanilla Goal](../data_types/vanilla_goal.md) | _optional_ | The goals to add to the mob.
+`goals` | [Array](../data_types/array.md) of [Vanilla Goal](../data_types/vanilla_goal.md) | _optional_ | The goals to add to the mob.
 
 
 ### Example
