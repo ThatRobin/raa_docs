@@ -15,8 +15,8 @@ Field  | Type | Default | Description
 `max` | [Integer](../data_types/integer.md) | *manditory* | The maximum value of the boss bar.
 `hud_render` | [Custom Hud Render](../data_types/boss_bar_hud_render.md) | _optional_ | Determines how the boss bar is visualized on the HUD.
 `start_value` | [Integer](../data_types/integer.md) | _optional_ | The value of the boss bar when the entity first receives the power. If not set, this will be set to the value of the `min` integer field.
-`min_action` | [Entity Action Type](../entity_action_types.md) | _optional_ | If specified, this action will be executed on the entity whenever the minimum value is reached.
-`max_action` | [Entity Action Type](../entity_action_types.md) | _optional_ | If specified, this action will be executed on the entity whenever the maximum value is reached.
+`min_action` | [Entity Action Type]([../entity_action_types.md](https://origins.readthedocs.io/en/latest/types/entity_action_types/)) | _optional_ | If specified, this action will be executed on the entity whenever the minimum value is reached.
+`max_action` | [Entity Action Type]([../entity_action_types.md](https://origins.readthedocs.io/en/latest/types/entity_action_types/)) | _optional_ | If specified, this action will be executed on the entity whenever the maximum value is reached.
 
 ### Example
 ```json
