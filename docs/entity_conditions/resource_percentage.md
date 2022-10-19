@@ -1,7 +1,5 @@
 # Resource Percentage
 
-[Entity Condition](../entity_conditions.md).
-
 Checks the percentage of a resource.
 
 Type ID: `ra_additions:resource_percentage`
