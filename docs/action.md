@@ -14,3 +14,15 @@ Action JSON files need to be placed inside the `data/<namespace>/{Action Type}` 
 ```
 
 This example is an action that launches the player into the air.
+
+```json
+{
+    "type": "origins:active_self",
+    "entity_action": "origins:entity_test",
+    "cooldown": 20,
+    "hud_render": {
+        "should_render": false
+    }
+}
+```
+This is an example of one way that you can use an entity action from a file, the other being [Execute Action]( )
