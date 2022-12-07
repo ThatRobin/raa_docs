@@ -25,4 +25,4 @@ This example is an action that launches the player into the air.
     }
 }
 ```
-This is an example of one way that you can use an entity action from a file, the other being [Execute Action]( )
+This is an example of one way that you can use an entity action from a file, the other being [Execute Action](meta_actions/execute_action.md)
