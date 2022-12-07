@@ -20,8 +20,13 @@ nav:
     - Types:
         - Power Types: power_types.md
         - Data Types: data_types.md
+        - Action JSON: action.md
         - Choice JSON: choice_json.md
         - Layer JSON: layer_json.md
+    - Other:
+        - Keybindings: keybinding.md
+        - Tag Extentions: tag_extentions.md
+        - Origin Selectors: origin_selectors.md
 
 
 theme:

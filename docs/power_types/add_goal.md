@@ -15,7 +15,7 @@ Type ID: `ra_additions:add_goal`
 Field  | Type | Default | Description
 -------|------|---------|-------------
 `goal` | [Identifier](../data_types/identifier.md) | _optional_ | The goal to add to the mob.
-`goals` | [Array]() of [Identifiers](../data_types/identifier.md) | _optional_ | The goals to add to the mob.
+`goals` | [Array](../data_types/array.md) of [Identifiers](../data_types/identifier.md) | _optional_ | The goals to add to the mob.
 
 
 ### Example
